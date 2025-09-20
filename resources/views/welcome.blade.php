@@ -1,8 +1,0 @@
-@extends('layout')
-
-@section('content')
-    
-    <h2>WELCOME BLADE PHP</h2>
-
-
-@endsection
